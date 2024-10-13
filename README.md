@@ -2,7 +2,7 @@
 
 This is a full-stack **MERN (MongoDB, Express, React, Node.js)** e-commerce web application. It allows users to browse products, add them to a cart, and place orders. The app features user authentication, product management, and secure payment integration.
 
-Check out the live version: [E-Commerce Store](https://e-commerce-store-c5pq.onrender.com/)
+Check out the live version: [E-Commerce Store](https://e-commerce-sy8f.onrender.com)
 
 ## 🚀 Features
 
