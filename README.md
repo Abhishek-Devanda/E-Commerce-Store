@@ -47,7 +47,7 @@ Check out the live version: [E-Commerce Store](https://e-commerce-store-c5pq.onr
 ## 🛠️ Installation and Setup
 
 ### Prerequisites:
-- [Node.js](https://nodejs.org/en/download/) (v14 or later)
+- [Node.js](https://nodejs.org/en/download/) (v20 or later)
 - [MongoDB](https://www.mongodb.com/try/download/community)
 - [Stripe API Key](https://stripe.com/docs/keys)
 
