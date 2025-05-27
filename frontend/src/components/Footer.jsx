@@ -1,6 +1,6 @@
 const Footer = () => {
   const handleGithubRedirect = () => {
-    window.open('https://github.com/Abhishek-Devanda', '_blank');
+    window.open('https://github.com/abhishekdevanda', '_blank');
   };
 
   return (
